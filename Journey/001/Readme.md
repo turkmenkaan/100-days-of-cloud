@@ -18,4 +18,4 @@ I've also worked on some practice questions from ITExams to test my progress.
 
 ## Social Proof
 
-[link](link)
+[Tweet](https://twitter.com/kage_tr/status/1328006547570630661)
