@@ -10,24 +10,20 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+## Kaan's Cloud Journey
 
-## [✍️ Your Name]'s Cloud Journey
+As I have started to get more and more interested in cloud technologies, I have finally decided to properly learn what cloud is and what benefits it has. Despite my prejudices against Microsoft products, I have decided to pick Microsoft Azure as my cloud service provider. To be perfectly transparent, main reason for my selection was cheaper certification prices but with the limited Azure knowledge I gained over the last couple weeks, I started to think Azure is a good option for absolute beginners with its easy to understand naming conventions compared to AWS. 
 
-[✍️ Introduce yourself]
+I'll spend first couple weeks studying for the AZ-900: Azure Fundamentals exam. I've already done some studying so I should be able to sit through the exam either in a week or two. Once I'm done with AZ-900, I'm planning on getting my hands dirty and working on some projects. 
 
-[✍️ Tell us why you started this challenge]
+I'll be using this repository to document my progress and motivate myself to study everyday. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Twitter](https://twitter.com/kage_tr)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [AZ-900 Study Day 1](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
