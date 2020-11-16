@@ -20,6 +20,7 @@ I'll be using this repository to document my progress and motivate myself to stu
 
 
 - [Twitter](https://twitter.com/kage_tr)
+- [LinkedIn](https://www.linkedin.com/in/kaan-t-0a4762134/)
 
 ## Stepping out the door
 

@@ -15,7 +15,9 @@ I've also worked on some practice questions from ITExams to test my progress.
 - [Microsoft Learn](https://aka.ms/azfunpath)
 - [ITExams](https://www.itexams.com/exam/AZ-900)
 
+### Update: 
+I ended up doing more studying at night. Concluded the "Core Solutions and Management Tools" chapter on Microsoft Learn by going through devops, monitoring, management, serverless and IoT services.
 
 ## Social Proof
 
-[link](link)
+[Tweet](https://twitter.com/kage_tr/status/1328006547570630661)
