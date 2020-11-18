@@ -4,6 +4,3 @@ Today's study material was the forth part of MS Learn Azure Fundamentals. This p
 
 I have also learned about Role-Based Access Control and Resource Locks, which are important tools to compartmentalize organizations and avoid costly mistakes.
 
-## Social Proof
-
-[Tweet](link)
