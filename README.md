@@ -26,7 +26,7 @@ I'll be using this repository to document my progress and motivate myself to stu
 
 - [ ] ☁️ 1 > [AZ-900 Study Day 1](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [AZ-900 Study Day 2](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
+- [ ] ☁️ 3 > [AZ-900 Study Day 3](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
